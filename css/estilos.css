@@ -49,6 +49,11 @@ body
     background: white;
     padding: 1em;
 }
+#post #img1{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
 
 #footer
 {
