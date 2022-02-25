@@ -9,5 +9,6 @@ CursoGit
 * Die echte Liebe für gute Praktiken
 * Verrückte Tricks des Lehrers
 * Die vielen Persönlichkeiten von Freddy
+* Erstellt von dem tollen Plazi Team  
 
 Und als eine freundliche Erinnerung: **Diese readme.md ist ein Witz**. Entworfen für das beispiel. Wenn du hierher kommst, NIMM ES NICHT ERNST und schau mal den Kurs.
